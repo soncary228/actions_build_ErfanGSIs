@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V14.0.4.0.TKYCNXM/miui_ELISH_V14.0.4.0.TKYCNXM_19b725e343_13.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://dl.google.com/dl/android/aosp/coral-ota-tp1a.221005.002.b2-9e04f1c9.zip
+  ROM_NAME: coral
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
